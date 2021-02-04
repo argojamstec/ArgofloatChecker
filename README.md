@@ -32,6 +32,8 @@ On the command line just write a command as follows.
 $python3 FloatCheck.py {xlsx file }{type.msg}
 ```
 #### Flow chart and procedure to get results
+![flowchart](https://user-images.githubusercontent.com/5100793/106864327-0caf8f80-670d-11eb-959d-9f3671098932.png)
+
 Read Excel (information) file  
 Input values in the dataframe tabe in the pandas, then compare new data with old one  
 Read float raw data (exchange from binary to ascii is implemented by a tool by manufacturer)  
